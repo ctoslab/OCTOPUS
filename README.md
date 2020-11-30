@@ -22,7 +22,7 @@ Scan Results: https://virusscan.jotti.org/en-US/filescanjob/0jlf7y2lfs
 
 ### 📖 HOW TO INSTALL
 
-1. Download the tool ('')
+1. Download the tool ('https://sellix.io/product/5fc5040797338')
 2. Unzip the file
 3. Open the Octopus.exe file
 4. Put the URL of your payload
